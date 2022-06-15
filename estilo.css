@@ -16,3 +16,14 @@ body{
     justify-content: flex-end;
     font-weight: bold;
 }
+.img {
+    margin-right: -193px;
+    margin-left: 227px;
+    /* display: flex; */
+    /* justify-content: space-between; */
+}  
+.background {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 63px;
+}
