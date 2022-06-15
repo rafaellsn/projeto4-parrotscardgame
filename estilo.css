@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2? family= Roboto:wght@700 & display=swap');
+
+body{
+    width: 804px;
+    height: 455px;
+    background-color: red;
+}
+.titulo-jogo {
+    font-size: 56px;
+    font-weight: 100px;
+    font-family: 'Roboto', sans-serif;
+    color: #75B79E;
+    width: 964px;
+    display: flex;
+    margin-top: 63px;
+    justify-content: flex-end;
+    font-weight: bold;
+}
